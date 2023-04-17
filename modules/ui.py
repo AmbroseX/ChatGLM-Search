@@ -51,7 +51,7 @@ def create_ui():
         state = gr.State(_ctx)
         with gr.Row():
             with gr.Column(scale=3):
-                gr.Markdown("""<h2><center>ChatGLM WebUI</center></h2>""")
+                gr.Markdown("""<h2><center>ChatGLM Search WebUI</center></h2>""")
                 with gr.Row():
                     with gr.Column(variant="panel"):
                         with gr.Row():
