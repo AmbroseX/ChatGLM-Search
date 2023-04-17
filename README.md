@@ -1,4 +1,4 @@
-# ChatGLMSearch
+# ChatGLM-Search
 
 ChatGLM-6b模型，联网搜索总结网页内容，回答问题
 
