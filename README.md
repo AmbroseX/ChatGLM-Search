@@ -11,6 +11,10 @@ python cli_demo.py
 ```
 
 ## web端
+```shell
+python web_demo.py --model-path T:\WorkData\NLPModel\chatglm-6b
+```
+
 - [ ] 待补充
 
 # 效果
